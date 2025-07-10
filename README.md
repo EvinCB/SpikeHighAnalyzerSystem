@@ -75,9 +75,7 @@ Each row captures:
 Documents\NinjaTrader 8\bin\Custom\Indicators
 Documents\NinjaTrader 8\bin\Custom\Strategies\
 
-yaml
-Copy
-Edit
+
 3. Recompile the NinjaScript Editor in NinjaTrader.
 4. Add the `SpikeHighAnalyzer` strategy to any chart with 1-minute data (and allow it to add the 5-minute series).
 5. CSV logs will be generated at the path specified in the code (e.g., `C:\SpikeLogs\`).

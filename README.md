@@ -32,7 +32,7 @@ This is one of my first large C# projects, so the code is heavily commented. The
 
 ## 📊 Historical Data
 
-This repo includes a 5-year analysis of spike signals, available in [`/data/SpikeAnalysis_5Y.xlsx`](data/SpikeAnalysis_5Y.xlsx).
+This repo includes a 5-year analysis of spike signals
 
 This file contains:
 - Frequency and performance of spike signals

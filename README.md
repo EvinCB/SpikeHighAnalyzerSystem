@@ -30,6 +30,17 @@ This is one of my first large C# projects, so the code is heavily commented. The
 
 ---
 
+## 📊 Historical Data
+
+This repo includes a 5-year analysis of spike signals, available in [`/data/SpikeAnalysis_5Y.xlsx`](data/SpikeAnalysis_5Y.xlsx).
+
+This file contains:
+- Frequency and performance of spike signals
+- Monthly breakdowns
+- Charts and summaries of Breakouts vs Consolidations
+
+---
+
 ## 📂 Output
 
 Each spike event is saved into a CSV file with the following structure:

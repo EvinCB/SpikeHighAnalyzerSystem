@@ -1,7 +1,31 @@
 *.dll
-*.csproj
+*.exe
+*.pdb
+*.cache
 *.suo
 *.user
-*.pdb
+*.csproj.user
+*.vspscc
+*.vssscc
+*.log
+
+# === Build artifacts ===
 bin/
 obj/
+Debug/
+Release/
+
+# === NinjaTrader-specific folders (optional) ===
+# These are useful to ignore if you only want to share code, not local data
+Documents/NinjaTrader 8/logs/
+Documents/NinjaTrader 8/db/
+Documents/NinjaTrader 8/replay/
+Documents/NinjaTrader 8/templates/
+Documents/NinjaTrader 8/workspaces/
+
+# === Excel / Data Exports ===
+*.csv
+
+# === System ===
+.DS_Store
+Thumbs.db
